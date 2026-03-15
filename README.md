@@ -30,9 +30,9 @@ Program wykorzystuje:
 - graf skierowany
 - listę sąsiedztwa
 - analizę:
---> stopnia wejściowego (in-degree)
---> stopnia wyjściowego (out-degree)
---> stopnia całkowitego (degree)
+  - stopnia wejściowego (in-degree)
+  - stopnia wyjściowego (out-degree)
+  - stopnia całkowitego (degree)
 
 Interpretacja stopni:
 stopień wejściowy – ile ofiar ma dany organizm
