@@ -29,7 +29,7 @@ Zastosowany model
 Program wykorzystuje: 
 - graf skierowany
 - listę sąsiedztwa
--analizę:
+- analizę:
 --> stopnia wejściowego (in-degree)
 --> stopnia wyjściowego (out-degree)
 --> stopnia całkowitego (degree)
